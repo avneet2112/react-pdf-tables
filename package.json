@@ -1,6 +1,6 @@
 {
-  "name": "react-pdf-table",
-  "version": "1.0.0-alfa.2",
+  "name": "react-pdf-tables",
+  "version": "1.0.1",
   "description": "Simple React table generator for @react-pdf",
   "main": "dist/index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enescang/react-pdf-table.git"
+    "url": "https://github.com/avneet2112/react-pdf-tables.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enescang/react-pdf-table/issues"
+    "url": "https://github.com/avneet2112/react-pdf-tables/issues"
   },
-  "homepage": "https://github.com/enescang/react-pdf-table#readme",
+  "homepage": "https://github.com/avneet2112/react-pdf-tables#readme",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@react-pdf/renderer": "^2.0.21"
